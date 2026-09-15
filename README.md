@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nisse Maximiliano Martinez Pardo</h1>
 <h3 align="center">( Niki ) => { Full Stack Developer };</h3>
 
-- 🔭 I’m currently working on **studying the integration of AI into e-commerce products (user experience personalization based on behavior).**
-
 - 🌱 I’m currently learning **technology stack associated with the Go language for use in platforms that integrate AI.**
 
 - 👨‍💻 All of my projects are available at my github **[https://github.com/nmmartinezp](https://github.com/nmmartinezp)**
